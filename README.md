@@ -36,7 +36,7 @@ Receiver SPI Module for Arduino <span class="GramE">AVR :</span>
 Amazon.co.uk: Business, Industry &
 Science](https://www.amazon.co.uk/dp/B07Z1V2RTM?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
-<span style="mso-no-proof:yes"><img src="Wonderwheel_files/image001.png" data-border="0"
+<span style="mso-no-proof:yes"><img src="Wonderwheel/image001.png" data-border="0"
 v:shapes="_x0000_i1028" width="286" height="226"
 alt="A blue circuit board with yellow and blue objects Description automatically generated" /></span>
 
