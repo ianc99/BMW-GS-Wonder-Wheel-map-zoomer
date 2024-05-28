@@ -105,8 +105,6 @@ above from
 v:shapes="Picture_x0020_1" width="264" height="202"
 alt="A hand holding a black device Description automatically generated" /></span>
 
-Connecting Bike \<-\> Volt Regulator \<-\>
-<span class="SpellE">NodeMCU</span> + TJ1050
 
 <span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
 Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">        
