@@ -139,9 +139,15 @@ EN-GB">. I've used this as a reference for my parsing.</span>
 
 **<span style="font-family:&quot;Segoe UI&quot;,sans-serif;
 color:#1F2328;background:white">Software</span>**
+<span style="font-size:12.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:#1F2328;mso-font-kerning:0pt;
+mso-ligatures:none;mso-fareast-language:EN-GB">
+
 The software is here [Arduino File](https://github.com/ianc99/BMW-GS-Wonder-Wheel-map-zoomer/tree/main/code)
+
 If you don't already have the Arduino IDE downloaded then get it from here:  [Arduino IDE Download](https://www.arduino.cc/en/software)
-You will need to add this library [MCP_CAN_lib](https://github.com/coryjfowler/MCP_CAN_lib).  Do this by clicking Tools->Manage Libraries... in the IDE
+You will need to add this library [MCP_CAN_lib](https://github.com/coryjfowler/MCP_CAN_lib).  Do this by clicking Tools->Manage Libraries... in the IDE.
+
 You'll also need to configure the IDE for the NodeMCU-32S  (assuming you are using the same board as me).  Do this by clicking Tools->Board->Board Manager.
 
  
