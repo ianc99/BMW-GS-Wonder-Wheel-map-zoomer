@@ -1,4 +1,4 @@
-// 
+// V0.5 added a Reset function when BT connection was lost
 //
 #define US_KEYBOARD 1
 
